@@ -30,30 +30,6 @@ aegis scan ./your-project
 6. Exits with code `2` if critical CVEs are found (blocks CI/CD pipelines)
 
 ---
-
-## Quick Start
-
-```bash
-# Build from source
-git clone https://github.com/aegisprime/aegis-sbom-scanner
-cd aegis-sbom-scanner
-mkdir build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-make -j$(nproc)
-
-# Run
-./aegis scan /path/to/your/project
-
-# With output files
-./aegis scan ./project \
-  --name "ABSA Mobile API" \
-  --version "2.1.0" \
-  --output sbom.json \
-  --report audit_report.txt
-```
-
----
-
 ## Example Output
 
 ```
