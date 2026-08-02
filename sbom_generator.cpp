@@ -1,6 +1,6 @@
 /**
  * Aegis Prime — SBOM Generator Implementation
- * Copyright (c) 2025 Aegis Prime (Pty) Ltd. All rights reserved.
+ * Copyright (c) 2026 Aegis Prime (Pty) Ltd. All rights reserved.
  */
 
 #include "sbom_generator.hpp"
