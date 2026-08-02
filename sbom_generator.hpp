@@ -6,7 +6,7 @@
  * 
  * Author: Nvula Bontes <nvula@aegisprime.io>
  * Company: Aegis Prime (Pty) Ltd
- * Copyright: (c) 2025 Aegis Prime (Pty) Ltd. All rights reserved.
+ * Copyright: (c) 2026 Aegis Prime (Pty) Ltd. All rights reserved.
  * CONFIDENTIAL — Do not distribute source code.
  */
 
