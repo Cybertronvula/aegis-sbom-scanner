@@ -5,12 +5,9 @@
  *   aegis scan ./my-project
  *   aegis scan ./my-project --output report.json --format cyclonedx
  *   aegis scan ./my-project --no-cve --output sbom.json
- * 
- * THIS IS WHAT YOU DEMO TO ABSA AND MEDICLINIC.
- * Run it against their public repos or sample projects.
  * The output is a signed CycloneDX JSON + human audit report.
  * 
- * Copyright (c) 2025 Aegis Prime (Pty) Ltd. All rights reserved.
+ * Copyright (c) 2026 Aegis Prime (Pty) Ltd. All rights reserved.
  */
 
 #include <iostream>
